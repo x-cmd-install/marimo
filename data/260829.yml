@@ -1,0 +1,67 @@
+about:
+  description: A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+  license: Apache-2.0
+  homepage: https://marimo.io
+  head: 1269547
+  archived: false
+  latestVersion: 0.24.0
+  collectedAt: 2026-08-29T07:05:13Z
+timeline:
+  created: 2023-08-14
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-17
+popularity:
+  star: 22534
+  watcher: 69
+  fork: 1244
+  release: 369
+  contributor: 327
+  pullRequest: 808
+  issue: 3071
+language:
+  Python: 14345662
+  TypeScript: 8756419
+  CSS: 117432
+  JavaScript: 65540
+  HTML: 61332
+  Shell: 14268
+  Jupyter Notebook: 13594
+  MDX: 9807
+  Makefile: 6453
+  Dockerfile: 1500
+  TeX: 209
+  Vim Script: 30
+totalLine: 23392246
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 122
+    openPR: 51
+    closedIssue: 34
+    openIssue: 39
+    commit: 139
+  last90d:
+    since: 2026-05-31
+    release: 9
+    mergedPR: 480
+    openPR: 61
+    closedIssue: 147
+    openIssue: 115
+    commit: 483
+  last180d:
+    since: 2026-03-02
+    release: 21
+    mergedPR: 1179
+    openPR: 67
+    closedIssue: 365
+    openIssue: 197
+    commit: 1171
+  last360d:
+    since: 2025-09-03
+    release: 57
+    mergedPR: 2552
+    openPR: 70
+    closedIssue: 904
+    openIssue: 320
+    commit: 2504
