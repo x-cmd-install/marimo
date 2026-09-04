@@ -1,26 +1,28 @@
 about:
-  description: A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+  description:
+  |
+    A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
   license: Apache-2.0
   homepage: https://marimo.io
-  head: bb3532a
+  head: a7e2bd1
   archived: false
   latestVersion: 0.24.0
-  collectedAt: 2026-09-04T04:34:12Z
+  collectedAt: 2026-09-04T19:41:36Z
 timeline:
   created: 2023-08-14
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-08-17
 popularity:
-  star: 22634
+  star: 22640
   watcher: 70
   fork: 1249
   release: 369
-  contributor: 327
-  pullRequest: 813
-  issue: 3080
+  contributor: 328
+  pullRequest: 7239
+  issue: 3081
 language:
   Python: 14465762
-  TypeScript: 8836243
+  TypeScript: 8842547
   CSS: 118802
   JavaScript: 68266
   HTML: 61332
@@ -31,37 +33,63 @@ language:
   Dockerfile: 1500
   TeX: 209
   Vim Script: 30
-totalLine: 23599528
+totalBytes: 23605832
 recent:
   last30d:
     since: 2026-08-05
     release: 1
-    mergedPR: 128
+    mergedPR: 131
     openPR: 51
-    closedIssue: 31
+    closedIssue: 32
     openIssue: 37
-    commit: 135
+    commit: 138
+  last60d:
+    since: 2026-07-06
+    release: 5
+    mergedPR: 334
+    openPR: 62
+    closedIssue: 89
+    openIssue: 78
+    commit: 339
   last90d:
     since: 2026-06-06
     release: 8
-    mergedPR: 479
+    mergedPR: 482
     openPR: 65
-    closedIssue: 145
+    closedIssue: 146
     openIssue: 107
-    commit: 482
+    commit: 485
   last180d:
     since: 2026-03-08
     release: 20
-    mergedPR: 1166
+    mergedPR: 1169
     openPR: 71
-    closedIssue: 363
+    closedIssue: 364
     openIssue: 195
-    commit: 1150
+    commit: 1153
   last360d:
     since: 2025-09-09
     release: 57
-    mergedPR: 2550
+    mergedPR: 2553
     openPR: 74
-    closedIssue: 901
-    openIssue: 316
-    commit: 2501
+    closedIssue: 903
+    openIssue: 315
+    commit: 2504
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 4835
+    openPR: 77
+    closedIssue: 1974
+    openIssue: 515
+    commit: 4963
+total:
+  release: 369
+  mergedPR: 6426
+  openPR: 77
+  closedIssue: 2553
+  openIssue: 528
+  commit: 6661
+---
+---
+
