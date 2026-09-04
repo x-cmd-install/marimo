@@ -7,13 +7,13 @@ about:
   head: a7e2bd1
   archived: false
   latestVersion: 0.24.0
-  collectedAt: 2026-09-04T19:41:36Z
+  collectedAt: 2026-09-04T20:55:34Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-09-04
   lastRelease: 2026-08-17
 popularity:
-  star: 22640
+  star: 22639
   watcher: 70
   fork: 1249
   release: 369
@@ -91,5 +91,103 @@ total:
   openIssue: 528
   commit: 6661
 ---
+path: /home/runner/.x-repo/github.com/marimo-team/marimo
+collectedAt: 2026-09-04T20:55:42Z
+loc:
+  Python:
+    code: 384944
+    comments: 25791
+    blanks: 79798
+    files: 2240
+  TypeScript:
+    code: 148597
+    comments: 15513
+    blanks: 20369
+    files: 1016
+  Tsx:
+    code: 99823
+    comments: 5351
+    blanks: 9962
+    files: 614
+  Yaml:
+    code: 34085
+    comments: 47
+    blanks: 4303
+    files: 13
+  Json:
+    code: 5017
+    comments: 0
+    blanks: 4
+    files: 72
+  Css:
+    code: 4934
+    comments: 347
+    blanks: 917
+    files: 52
+  JavaScript:
+    code: 2261
+    comments: 228
+    blanks: 202
+    files: 13
+  Html:
+    code: 634
+    comments: 31
+    blanks: 16
+    files: 12
+  Toml:
+    code: 504
+    comments: 93
+    blanks: 51
+    files: 2
+  Sh:
+    code: 493
+    comments: 74
+    blanks: 80
+    files: 15
+  Svg:
+    code: 280
+    comments: 3
+    blanks: 6
+    files: 36
+  Makefile:
+    code: 132
+    comments: 50
+    blanks: 38
+    files: 1
+  Dockerfile:
+    code: 37
+    comments: 6
+    blanks: 13
+    files: 1
+  Jupyter:
+    code: 25
+    comments: 19
+    blanks: 2
+    files: 9
+  Autoconf:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Tex:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15013
+    blanks: 6702
+    files: 306
+  Text:
+    code: 0
+    comments: 12648
+    blanks: 1085
+    files: 175
+total:
+  code: 685883
+  comments: 75909
+  blanks: 124168
+  files: 4579
 ---
 
