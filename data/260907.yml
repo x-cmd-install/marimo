@@ -2,22 +2,22 @@ about:
   description: "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor."
   license: Apache-2.0
   homepage: https://marimo.io
-  head: 6dca180
+  head: 06ddf95
   archived: false
   latestVersion: "0.24.0"
-  collectedAt: 2026-09-07T05:26:40Z
+  collectedAt: 2026-09-07T19:03:14Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-09-07
   lastRelease: 2026-08-17
 popularity:
-  star: 22677
+  star: 22679
   watcher: 71
-  fork: 1252
+  fork: 1254
   release: 369
-  contributor: 329
-  pullRequest: 7242
-  issue: 3081
+  contributor: 330
+  pullRequest: 7245
+  issue: 3082
 language:
   Python: 14465001
   TypeScript: 8844830
@@ -36,61 +36,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 125
-    openPR: 48
+    mergedPR: 126
+    openPR: 50
     closedIssue: 28
-    openIssue: 31
-    commit: 121
+    openIssue: 32
+    commit: 122
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 306
-    openPR: 57
+    mergedPR: 307
+    openPR: 59
     closedIssue: 87
-    openIssue: 74
-    commit: 285
+    openIssue: 75
+    commit: 286
   last90d:
     since: 2026-06-09
     release: 8
-    mergedPR: 469
-    openPR: 61
+    mergedPR: 470
+    openPR: 63
     closedIssue: 139
-    openIssue: 96
-    commit: 461
+    openIssue: 97
+    commit: 462
   last180d:
     since: 2026-03-11
     release: 20
-    mergedPR: 1149
-    openPR: 66
+    mergedPR: 1150
+    openPR: 68
     closedIssue: 357
-    openIssue: 192
-    commit: 1091
+    openIssue: 193
+    commit: 1092
   last360d:
     since: 2025-09-12
     release: 56
-    mergedPR: 2536
-    openPR: 70
+    mergedPR: 2537
+    openPR: 72
     closedIssue: 891
-    openIssue: 307
-    commit: 2453
+    openIssue: 308
+    commit: 2454
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 4822
-    openPR: 73
+    mergedPR: 4823
+    openPR: 75
     closedIssue: 1968
-    openIssue: 513
-    commit: 4956
+    openIssue: 514
+    commit: 4957
 total:
   release: 369
-  mergedPR: 6431
-  openPR: 73
+  mergedPR: 6432
+  openPR: 75
   closedIssue: 2555
-  openIssue: 526
-  commit: 6666
+  openIssue: 527
+  commit: 6667
 ---
 path: /home/runner/.x-repo/github.com/marimo-team/marimo
-collectedAt: 2026-09-07T05:26:59Z
+collectedAt: 2026-09-07T19:03:28Z
 loc:
   Python:
     code: 384968
@@ -191,7 +191,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:11+00:00
+  collectedAt: 2026-09-07T19:03:32+00:00
   platform:
     darwin/arm64:
       name:  null
