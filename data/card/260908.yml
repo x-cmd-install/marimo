@@ -5,7 +5,7 @@ about:
   head: 66f1df7
   archived: false
   latestVersion: "0.24.0"
-  collectedAt: 2026-09-08T02:40:31Z
+  collectedAt: 2026-09-08T05:26:29Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-09-07
@@ -16,7 +16,7 @@ popularity:
   fork: 1254
   release: 369
   contributor: 330
-  pullRequest: 7245
+  pullRequest: 7246
   issue: 3082
 language:
   Python: 14465139
@@ -40,7 +40,7 @@ recent:
     openPR: 48
     closedIssue: 27
     openIssue: 32
-    commit: 0
+    commit: 124
   last60d:
     since: 2026-07-10
     release: 4
@@ -48,7 +48,7 @@ recent:
     openPR: 57
     closedIssue: 87
     openIssue: 73
-    commit: 0
+    commit: 288
   last90d:
     since: 2026-06-10
     release: 8
@@ -56,7 +56,7 @@ recent:
     openPR: 61
     closedIssue: 137
     openIssue: 96
-    commit: 0
+    commit: 464
   last180d:
     since: 2026-03-12
     release: 20
@@ -64,7 +64,7 @@ recent:
     openPR: 66
     closedIssue: 354
     openIssue: 192
-    commit: 0
+    commit: 1094
   last360d:
     since: 2025-09-13
     release: 56
@@ -72,7 +72,7 @@ recent:
     openPR: 70
     closedIssue: 890
     openIssue: 307
-    commit: 0
+    commit: 2456
   last720d:
     since: 2024-09-18
     release: 100
@@ -90,7 +90,7 @@ total:
   commit: 6669
 ---
 path: /home/runner/.x-repo/github.com/marimo-team/marimo
-collectedAt: 2026-09-08T02:40:49Z
+collectedAt: 2026-09-08T05:26:43Z
 loc:
   Python:
     code: 384969
