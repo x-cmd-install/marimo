@@ -2,30 +2,30 @@ about:
   description: "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor."
   license: Apache-2.0
   homepage: https://marimo.io
-  head: b84f140
+  head: f596e6b
   archived: false
   latestVersion: "0.24.0"
   latestRelease: "0.24.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:29:41Z
+  collectedAt: 2026-09-09T19:59:18Z
 timeline:
   created: 2023-08-14
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-17
   lastRelease: 2026-08-17
   lastPrerelease: 
 popularity:
-  star: 22692
+  star: 22703
   watcher: 71
-  fork: 1255
+  fork: 1256
   release: 369
-  contributor: 330
-  pullRequest: 7254
-  issue: 3084
+  contributor: 331
+  pullRequest: 7259
+  issue: 3085
 language:
-  Python: 14470272
-  TypeScript: 8844839
-  CSS: 118802
+  Python: 14472772
+  TypeScript: 8905991
+  CSS: 119442
   JavaScript: 68266
   HTML: 61332
   Shell: 17225
@@ -35,82 +35,82 @@ language:
   Dockerfile: 1500
   TeX: 209
   Vim Script: 30
-totalBytes: 23612634
+totalBytes: 23676926
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 123
-    openPR: 52
-    closedIssue: 27
+    mergedPR: 130
+    openPR: 49
+    closedIssue: 28
     openIssue: 33
-    commit: 127
+    commit: 134
   last60d:
     since: 2026-07-11
     release: 3
-    mergedPR: 304
-    openPR: 62
-    closedIssue: 84
+    mergedPR: 311
+    openPR: 59
+    closedIssue: 85
     openIssue: 75
-    commit: 291
+    commit: 298
   last90d:
     since: 2026-06-11
     release: 8
-    mergedPR: 464
-    openPR: 66
-    closedIssue: 131
+    mergedPR: 471
+    openPR: 63
+    closedIssue: 132
     openIssue: 98
-    commit: 467
+    commit: 474
   last180d:
     since: 2026-03-13
     release: 20
-    mergedPR: 1134
-    openPR: 71
-    closedIssue: 351
+    mergedPR: 1141
+    openPR: 68
+    closedIssue: 352
     openIssue: 192
-    commit: 1097
+    commit: 1104
   last360d:
     since: 2025-09-14
     release: 56
-    mergedPR: 2540
-    openPR: 75
-    closedIssue: 890
+    mergedPR: 2547
+    openPR: 72
+    closedIssue: 891
     openIssue: 309
-    commit: 2459
+    commit: 2466
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 4817
-    openPR: 78
-    closedIssue: 1962
+    mergedPR: 4824
+    openPR: 75
+    closedIssue: 1963
     openIssue: 516
-    commit: 4946
+    commit: 4953
 total:
   release: 369
-  mergedPR: 6437
-  openPR: 78
-  closedIssue: 2555
+  mergedPR: 6444
+  openPR: 75
+  closedIssue: 2556
   openIssue: 529
-  commit: 6672
+  commit: 6679
 ---
 path: /home/runner/.x-repo/github.com/marimo-team/marimo
-collectedAt: 2026-09-09T05:30:11Z
+collectedAt: 2026-09-09T19:59:35Z
 loc:
   Python:
-    code: 385114
+    code: 385174
     comments: 25775
-    blanks: 79794
+    blanks: 79804
     files: 2240
   TypeScript:
-    code: 148665
-    comments: 15513
-    blanks: 20376
-    files: 1016
+    code: 149491
+    comments: 15575
+    blanks: 20482
+    files: 1021
   Tsx:
-    code: 99824
-    comments: 5351
-    blanks: 9962
-    files: 614
+    code: 100514
+    comments: 5398
+    blanks: 10042
+    files: 617
   Yaml:
     code: 34534
     comments: 47
@@ -122,9 +122,9 @@ loc:
     blanks: 4
     files: 72
   Css:
-    code: 4934
+    code: 4959
     comments: 347
-    blanks: 917
+    blanks: 920
     files: 52
   JavaScript:
     code: 2261
@@ -187,10 +187,10 @@ loc:
     blanks: 1085
     files: 175
 total:
-  code: 686568
-  comments: 75896
-  blanks: 124275
-  files: 4579
+  code: 688169
+  comments: 76005
+  blanks: 124474
+  files: 4587
 ---
 
 ---
