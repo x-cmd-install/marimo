@@ -32,35 +32,35 @@ Total: **686,128** lines of code across **3971** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.24.0` (2026-08-17)
+- **Latest**: `0.24.1` (2026-09-10)
 - **Last commit**: 2026-09-10
 
 ## Popularity
 
-- **Stars**: 22,712 · **Forks**: 1,259 · **Open issues**: 3,090 · **Contributors**: 332
+- **Stars**: 22,714 · **Forks**: 1,259 · **Open issues**: 3,090 · **Contributors**: 332
 
 ## Totals (cumulative)
 
-- **Releases**: 369 · **Merged PRs**: 6456 · **Open PRs**: 69 · **Closed issues**: 2563 · **Open issues**: 527 · **Commits**: 6691
+- **Releases**: 370 · **Merged PRs**: 6457 · **Open PRs**: 69 · **Closed issues**: 2563 · **Open issues**: 527 · **Commits**: 6692
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 138 | 42 | 34 | 31 | 146 |
-| last60d | 2026-07-12 | 3 | 323 | 53 | 87 | 70 | 310 |
-| 90d | 2026-06-12 | 8 | 479 | 57 | 139 | 96 | 486 |
-| last180d | 2026-03-14 | 20 | 1152 | 62 | 357 | 190 | 1116 |
-| 360d | 2025-09-15 | 56 | 2548 | 66 | 891 | 305 | 2478 |
-| last720d | 2024-09-20 | 100 | 4827 | 69 | 1961 | 514 | 4961 |
+| 30d | 2026-08-11 | 2 | 139 | 42 | 34 | 31 | 147 |
+| last60d | 2026-07-12 | 4 | 324 | 53 | 87 | 70 | 311 |
+| 90d | 2026-06-12 | 9 | 480 | 57 | 139 | 96 | 487 |
+| last180d | 2026-03-14 | 21 | 1153 | 62 | 357 | 190 | 1117 |
+| 360d | 2025-09-15 | 57 | 2549 | 66 | 891 | 305 | 2479 |
+| last720d | 2024-09-20 | 100 | 4828 | 69 | 1961 | 514 | 4962 |
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/marimo). **9** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **24** distros on [repology.org](https://repology.org/project/marimo). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.24.0` | ✅ latest |
+| Nix unstable | `0.24.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:34:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:15:43Z._
