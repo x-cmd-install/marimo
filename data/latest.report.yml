@@ -2,25 +2,25 @@ about:
   description: "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor."
   license: Apache-2.0
   homepage: https://marimo.io
-  head: 492c693
+  head: fa0eeff
   archived: false
-  latestVersion: "0.24.0"
-  latestRelease: "0.24.0"
+  latestVersion: "0.24.1"
+  latestRelease: "0.24.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:33:55Z
+  collectedAt: 2026-09-10T23:15:09Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-09-10
-  lastVersion: 2026-08-17
-  lastRelease: 2026-08-17
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 22712
+  star: 22714
   watcher: 71
   fork: 1259
-  release: 369
+  release: 370
   contributor: 332
-  pullRequest: 7269
+  pullRequest: 7270
   issue: 3090
 language:
   Python: 14488916
@@ -39,62 +39,62 @@ totalBytes: 23754602
 recent:
   last30d:
     since: 2026-08-11
-    release: 1
-    mergedPR: 138
+    release: 2
+    mergedPR: 139
     openPR: 42
     closedIssue: 34
     openIssue: 31
-    commit: 146
+    commit: 147
   last60d:
     since: 2026-07-12
-    release: 3
-    mergedPR: 323
+    release: 4
+    mergedPR: 324
     openPR: 53
     closedIssue: 87
     openIssue: 70
-    commit: 310
+    commit: 311
   last90d:
     since: 2026-06-12
-    release: 8
-    mergedPR: 479
+    release: 9
+    mergedPR: 480
     openPR: 57
     closedIssue: 139
     openIssue: 96
-    commit: 486
+    commit: 487
   last180d:
     since: 2026-03-14
-    release: 20
-    mergedPR: 1152
+    release: 21
+    mergedPR: 1153
     openPR: 62
     closedIssue: 357
     openIssue: 190
-    commit: 1116
+    commit: 1117
   last360d:
     since: 2025-09-15
-    release: 56
-    mergedPR: 2548
+    release: 57
+    mergedPR: 2549
     openPR: 66
     closedIssue: 891
     openIssue: 305
-    commit: 2478
+    commit: 2479
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 4827
+    mergedPR: 4828
     openPR: 69
     closedIssue: 1961
     openIssue: 514
-    commit: 4961
+    commit: 4962
 total:
-  release: 369
-  mergedPR: 6456
+  release: 370
+  mergedPR: 6457
   openPR: 69
   closedIssue: 2563
   openIssue: 527
-  commit: 6691
+  commit: 6692
 ---
 path: /home/runner/.x-repo/github.com/marimo-team/marimo
-collectedAt: 2026-09-10T20:34:17Z
+collectedAt: 2026-09-10T23:15:31Z
 loc:
   Python:
     code: 385616
@@ -194,4 +194,4 @@ total:
 ---
 
 ---
-{"id":371963456,"author":{"login":"akshayka","id":1994308,"node_id":"MDQ6VXNlcjE5OTQzMDg=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOKHF8zM4WK7ZA","tag_name":"0.24.0","target_commitish":"main","name":"0.24.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-17T21:26:01Z","updated_at":"2026-08-17T21:32:47Z","published_at":"2026-08-17T21:32:47Z","assets":[],"body":"# What's Changed\r\n\r\nThis release improves the user experience for working with data sources in the marimo editor. It also makes a small breaking change to `mo.ui.file_browser`, restricting navigation outside the target directory by default with `restrict_navigation=True`. Like all our releases, it includes many other enhancements and bug fixes. \r\n\r\n## \ud83e\udd17 Hugging Face Hub integration\r\n\r\n<img width=\"1135\" height=\"358\" alt=\"image\" src=\"https://github.com/user-attachments/assets/8c204c69-c5ef-4fdd-81d3-ad63c59b1815\" />\r\n\r\nHugging Face Hub is now a first-class remote storage backend. Hugging Face Hub (huggingface_hub.HfApi) usage is  automatically detected, with your HuggingFace data appearing in the storage sidebar.\r\n\r\n* Browse datasets, models, spaces, and buckets, with lazy listing/download/signed-URL support via HfApi.\r\n* Bucket paths are namespaced like repos (buckets/<namespace>/<bucket-name>/...), matching the Hugging Face Hub API.\r\n* Read files directly with hf:// URLs from Polars, pandas, or DuckDB.\r\n\r\n[Read the docs](https://docs.marimo.io/guides/working_with_data/remote_storage/#hugging-face-hub) to learn more.\r\n\r\n## \ud83d\udee2\ufe0f Preview variables bound to data sources \r\n\r\n<img width=\"566\" height=\"484\" alt=\"image\" src=\"https://github.com/user-attachments/assets/c81ad5c5-90a3-4ba9-82a3-4b6a47a6ce9f\" />\r\n\r\nVariables bound to data sources and remote storage backends are now decorated with small icons indicating the connection. Hover over the icon to see details about the connection, or click it to open the relevant section in the data sources sidebar panel.\r\n\r\n\r\n## \ud83d\udce5 A unified export dialog\r\n\r\nThe marimo editor now includes a simple, unified, and customizable export dialog, allowing you to export notebooks to various formats and customize the options for each export type.\r\n\r\nhttps://github.com/user-attachments/assets/50da8100-4245-4258-9796-31295d7dfe3c\r\n\r\n\r\n## \ud83e\udd16 AI capabilities in the chat sidebar\r\n\r\nGive your AI access to capabilities like web search directly from the siderbar:\r\n\r\nhttps://github.com/user-attachments/assets/d23ccc72-0925-4403-953b-d2d6c835ebba\r\n\r\n## All changes\r\n### \u2728 Enhancements\r\n* add capabilities UI for chat sidebar (#10502)\r\n* Infer file browser initial path from initial value (#10362)\r\n* Make editor code lens configurable via display.code_lens (#10512)\r\n* Migrate frontend to AI SDK v7 (#10486)\r\n* Enable editor code lens (#10507)\r\n* Improve discoverability of collapse/expand all sections commands (#10464)\r\n* Raise upper bound on `uv_build` to `<=0.13.0` (#10467)\r\n* Update LLM model catalog (#10440)\r\n* Report missing Chromium for PDF export (#10453)\r\n* Add Hugging Face Hub as a remote storage backend (#10419)\r\n* Unified export dialog UI (#10429)\r\n\r\n### \ud83d\udc1b Bug fixes\r\n* Improve hover hit-area of code-lens (#10576)\r\n* chat sidebar: mark Code Mode as beta (#10569)\r\n* Restrict navigation by default (#10518)\r\n* Creating new thread from sidebar doesn't work (#10538)\r\n* Preserve nulls in pandas JSON stringification (#10517)\r\n* Export filenames are unreadable in molab (#10478)\r\n* Raise on colliding option names in dropdown/multiselect (#10511)\r\n* Torch formatter popup clipping (#10493)\r\n* Mo.image_compare scales images to given width/height (#10500)\r\n* Kill processes when interrupting a cell (#10492)\r\n* Raise a helpful error for invalid radio/multiselect option names (#10498)\r\n* Resolve file keys through the workspace when matching sessions (#10474)\r\n* Restore view state after present-mode callbacks (#10452)\r\n* Support quoted headings in document outline (#10454)\r\n* Preserve invalid cells in topological IPYNB export (#10451)\r\n* Prevent UI / state from being miskeyed for hash construction (#10447)\r\n* Export dialog tab a11y and error logging (#10444)\r\n* Broaden catches from TokenError to TokenError + SyntaxError (#10446)\r\n\r\n### \ud83d\udcda Documentation\r\n* Add PyCharm video (#10521)\r\n* Describe cache_cells and its use for WASM exports (#10455)\r\n* Document workarounds for refreshing SQL cells in app mode (#10418)\r\n* update docs and UI for quick-add datasources (#10426)\r\n* Document data source environment discovery (#10423)\r\n\r\n### \ud83d\udd2c Preview features\r\n* Add capability discovery (#10399)\r\n\r\n### \ud83d\udcdd Other changes\r\n* Align Renovate and pnpm release cooldowns (#10572)\r\n* Update dependency mermaid to v11.16.1 [security] (#10234) (c583cd8)\r\n* Update dependency dompurify to v3.4.13 [security] (#10491)\r\n* Update dependency form-data to >=4.0.6 [security] (#10231) (a110544)\r\n* Update dependency postcss to v8.5.23 [security] (#10322)\r\n* Update dependency @playwright/test to ^1.62.1 (#10257) (c9accd8)\r\n* Update build tools (#10294) (6f1e27c)\r\n* Update dependency turbo to v2.9.14 [security] (#10235) (2d5b535)\r\n* ci fix: add types-docutils for mypy typecheck (#10487)\r\n* Security acknowledgments (#10279) (1a60a4e)\r\n* [pre-commit.ci] pre-commit autoupdate (#10248) (233d184)\r\n\r\n## Contributors\r\nThanks to all our community and contributors who made this release possible: @Abdulrehman-PIAIC80387, @akshayka, @app/github-actions, @app/pre-commit-ci, @app/renovate, @Chinmayrawat15, @dmadisetti, @kirangadhave, @koaning, @Light2Dark, @manzt, @mscolnick, @peter-gy, @tschm, @wally-an, @yairchu\r\n\r\nAnd especially to our new contributors:\r\n\r\n* @Chinmayrawat15 made their first contribution in https://github.com/marimo-team/marimo/pull/10498\r\n\r\n**Full Changelog**: https://github.com/marimo-team/marimo/compare/0.23.16...0.24.0","reactions":{"total_count":19,"+1":8,"-1":0,"laugh":0,"hooray":1,"confused":0,"heart":3,"rocket":7,"eyes":0},"mentions_count":13}
+{"id":386619249,"author":{"login":"dmadisetti","id":2689338,"node_id":"MDQ6VXNlcjI2ODkzMzg=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOKHF8zM4XC1dx","tag_name":"0.24.1","target_commitish":"main","name":"0.24.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-10T21:45:36Z","updated_at":"2026-09-10T21:50:04Z","published_at":"2026-09-10T21:45:54Z","assets":[],"body":"## What's Changed\r\n\r\nThis release makes it easier to share slide decks, browse files across directories and GitHub repositories, in addition to many other bug fixes. Some other changes include better geospatial data support with GeoPandas, polars and duckdb, web assembly optimizations, and a condensed graph view to understand your notebook's dependencies.\r\n\r\n## \u2b50\ufe0f Highlights\r\n\r\n### Export slides to HTML and WebAssembly\r\n\r\nShare notebooks in the slides layout as reveal.js decks, preserving slide structure, fragments, and deck settings. Export static HTML with captured outputs, or use WebAssembly to keep Python controls interactive in the browser.\r\n\r\n```bash\r\nmarimo export html slides.py -o slides.html\r\nmarimo export html-wasm slides.py -o slides --mode run\r\n```\r\n\r\n<img width=\"960\" height=\"540\" alt=\"reveal-slides\" src=\"https://github.com/user-attachments/assets/878c004f-42ee-4a45-8b5f-9a893cefbffa\" />\r\n\r\n\r\nRead the docs for static HTML, or learn about [interactive WebAssembly exports](https://docs.marimo.io/guides/exporting/webassembly_html/#webassembly-html).\r\n\r\n### Browse local folders and GitHub repositories\r\n\r\nKeep project files, data directories, and GitHub repositories within reach in the Files panel. Add named local directories in `pyproject.toml`, or use **Add Connection** to connect a GitHub repository and browse its files.\r\n\r\n<p align=\"center\">\r\n  <img width=\"650\" src=\"https://github.com/user-attachments/assets/b48fafee-a493-43ce-9ced-df32660f2bf8\" alt=\"Files panel showing expanded Data and Assets roots and a GitHub repository, alongside a notebook reading penguins.csv from GitHub into a table\" />\r\n</p>\r\n\r\n```toml\r\n[tool.marimo.file_browser]\r\nfolders = [\r\n    { path = \"/absolute/path/to/data\", name = \"Data\" },\r\n    { path = \"/absolute/path/to/assets\", name = \"Assets\" },\r\n]\r\n```\r\n\r\n[Read the docs](https://docs.marimo.io/guides/working_with_data/remote_storage/) for additional local folders, or learn about remote storage connections.\r\n\r\n### A compact view of notebook dependencies\r\n\r\nThe dependency graph now shows compact variable summaries, making it easier to follow connections in larger notebooks. Double-click a cell in the graph to expand its code.\r\n\r\n<p align=\"center\">\r\n  <img width=\"600\" src=\"https://github.com/user-attachments/assets/49b13b4d-506c-4878-ae85-22eeed5c46cc\" alt=\"Compact dependency graph showing variables defined by each cell and the connections between cells\" />\r\n</p>\r\n\r\n[Read the docs.](https://docs.marimo.io/guides/editor_features/dataflow#graph-view)\r\n\r\n## \u2728 Enhancements\r\n\r\n* Make the file browser faster and easier to navigate (#10773)\r\n* Condensed dependency graph representation (#10766)\r\n* Show only specific columns from the column menu and explorer (#10768)\r\n* Find connections by provider in command palette (#10749)\r\n* Refresh static notebook run dialog (#10741)\r\n* Persist static code visibility in URL (#10742)\r\n* Refresh the model catalog and restore automated updates (#10735)\r\n* HTML and WASM export of Reveal slides (#10703)\r\n* Read provider keys from environment variables (#10665)\r\n* Stream validated structured cell completions (#10652)\r\n* Make proposed AI edits UI consistent with editor styling (#10595)\r\n* Update LLM model catalog (#10634)\r\n* Preview and edit TOML files with syntax highlighting (#10599)\r\n* Hide redundant notebook download submenu (#10607)\r\n* Upload files directly into folders (#10637)\r\n* Make auto-discovered connections easier to add (#10640)\r\n* Open the JSON viewer for string columns containing JSON documents (#10629)\r\n* Connect GitHub repos from the Add Connection UI (#10604)\r\n* Replace GitHub Models with GitHub Copilot (#10750)\r\n* Allow `mo.latex` to accept text directly (#10723)\r\n* Add shortcut to create a SQL cell below (#10701)\r\n* Support multi-root file browsing (#10727)\r\n* Install WebAssembly notebook packages in parallel with progress updates (#9702, 78f0366)\r\n* Hide unused providers when `allow_provider_config` is false (#10590, 3524643)\r\n* Show detected data sources and hide suggestions for existing connections (#10575, ba0219a)\r\n* Add GeoPandas geometry table support (#10536, 205fa16)\r\n* Lint rule for private imports (#10580, 3a1b1da)\r\n* Type exact values and adjust step sizes in `mo.ui.matrix` (#10520, 5c3646a)\r\n* Add Databricks SQL warehouse discovery plugin (#10556, df8dbed)\r\n* Update LLM model catalog (#10571, 09c2c30)\r\n* Install server requirements for notebook exports (#10473, 397fae2)\r\n\r\n## \ud83d\udc1b Bug fixes\r\n\r\n* Add an exit control to fullscreen cell output (#10769)\r\n* Make cross-cell navigation work before target editors finish loading (#10708)\r\n* Map `geoarrow` imports to `geoarrow-types` (#10659)\r\n* Preserve newlines in iframe `srcdoc` (#10668)\r\n* Map `mace` imports to `mace-torch` (#10594)\r\n* Detect CRS-qualified DuckDB geometry (#10643)\r\n* Set explicit browser cache headers (#10614)\r\n* Preserve insertion order for NumPy integer dictionary keys (#10788)\r\n* Serialize Polars cache values with native IPC (#10775)\r\n* Respect a single supplied bound when choosing the default `mo.ui.date_range` value (#10649)\r\n* Keep marimo running when tracing dependencies are missing (#10758)\r\n* Fix scope renaming during notebook conversion (#10748)\r\n* Use Ctrl for AI shortcuts on Windows (#10751)\r\n* Preserve unqualified references in methods (#10679)\r\n* Handle spaces in package extras (#10686)\r\n* Prevent nested progress output from shaking (#10743)\r\n* Preserve virtual ESM URLs (#10687)\r\n* Make edit replay robust across structural changes (#10662)\r\n* Fix reference ordering for recursive private functions (#10678)\r\n* Update the Matplotlib pin in tutorials to avoid `Path.__deepcopy__` recursion (#10702)\r\n* Accept covariant mappings in `mo.ui.dictionary` and `.batch` (#10653)\r\n* Stop listing unavailable Kimi K3 on W&B (#10689)\r\n* Make catalog discovery reuse one connection (#10636)\r\n* Match generated filter code to the widget's literal `contains` operator (#10617)\r\n* Fix table-cell edit styling and popover dismissal (#10622)\r\n* Resolve the default database for Snowflake engines without a database in the URL (#10616)\r\n* Derive canvas draw scale from the backing store (#10626)\r\n* Validate that checkbox values are booleans (#10601)\r\n* Reject an empty-string value in `mo.ui.file_browser` (#10613)\r\n* Fix code lens tooltip jitter (#10591)\r\n* Route AI tool arguments to the correct tool (#10597)\r\n* Store a keyed hash of the auth token in the session cookie (#10691)\r\n* Preserve dataframe state after unmounting (#10762, #10759, 69e0067)\r\n* Use Ctrl for chart pan and zoom on non-macOS platforms (#10496, #3812, b4181ab)\r\n* Restore streaming package installation in WebAssembly notebooks (#10522, c3717b7)\r\n* Sanitize signing config from untrusted layers (#10525, 55e2a22)\r\n* Handle delimiters when detecting URLs in table cells (#10570, eb9960f)\r\n* Suppress warnings for duration columns in column summaries (#10531, 666e922)\r\n* Pass real JSON schema through for MCP/backend tools (#10573, 9131759)\r\n* Fix Slurm script execution and refresh deployment examples (#10469, f1b3678)\r\n\r\n## \ud83d\udcda Documentation\r\n\r\n* Fix the SQL Support link in the `sql_parse_error` lint rule (#10757)\r\n* Fix the `mo.video` example (#10731)\r\n* Keep sidebar code mode aligned with marimo-pair (#10683)\r\n* Update the molab storage documentation (#10672)\r\n* Add a callout to use Jupyter-to-marimo agent skill (#10593)\r\n\r\n## \ud83d\udcdd Other changes\r\n\r\n* Restore typechecking with Click 8.4 (#10738)\r\n* Skip the Scattermapbox selection test when Plotly removes it (#10721)\r\n* Update actions/checkout digest (#10710)\r\n* Update all oxc dependencies (#10700)\r\n* Update all storybook dependencies to ^10.5.10 (#10673)\r\n* Update codemirror dependencies (#10482, 0a80490)\r\n* Update build tools (#10630)\r\n* Update dependency @testing-library/jest-dom to v7 (#10619)\r\n* Restore current JAX coverage after Flax compatibility fix (#10669)\r\n* Generate OpenAPI schema for UI plugin contracts (#10513, 257ea7a)\r\n* Unblock Flax tests during JAX compatibility window (#10646)\r\n* Update pre-commit hooks (#10578, 96a4942)\r\n* Make session resume E2E retries reliable (#10588, cad0f45)\r\n* Introduce SigningPolicy and rename mode to verification (#10524, 3dbe26f)\r\n* Add geometry fixture corpus and baselines (#10516, eece28b)\r\n* Enable four additional Ruff checks (#10586, 4e4efcc)\r\n* Keep custom SSL clients type-safe on openai 3 (#10587, e878ff7)\r\n* Migrate to MCP 2 (#10581, 849f16b)\r\n* Scope debugger ignore (#10540, ea3be97)\r\n* Remove stale ignores (#10539, c092a67)\r\n* Move cache configuration from `experimental.cache` to `cache.store` and add signing fields (#10523, 7ff2b4d)\r\n\r\n## Contributors\r\n\r\nThanks to all our community and contributors who made this release possible: @Abdulrehman-PIAIC80387, @abelsiqueira, @afonsojanu, @akshayka, @alchem0x2A, @Aniket-a14, @dmadisetti, @Jacky-J126, @kirangadhave, @kjgoodrick, @koaning, @ktaletsk, @Light2Dark, @manzt, @matemijolovic, @mscolnick, @Nikhil-Koganti, @peter-gy, @pylrn, @robd518, @sha2fiddy, @winklemad\r\n\r\nAnd especially to our new contributors:\r\n\r\n* @abelsiqueira made their first contribution in https://github.com/marimo-team/marimo/pull/10626\r\n* @afonsojanu made their first contribution in https://github.com/marimo-team/marimo/pull/10702\r\n* @alchem0x2A made their first contribution in https://github.com/marimo-team/marimo/pull/10594\r\n* @Aniket-a14 made their first contribution in https://github.com/marimo-team/marimo/pull/10701\r\n* @Jacky-J126 made their first contribution in https://github.com/marimo-team/marimo/pull/10757\r\n* @matemijolovic made their first contribution in https://github.com/marimo-team/marimo/pull/10762\r\n* @Nikhil-Koganti made their first contribution in https://github.com/marimo-team/marimo/pull/10496\r\n* @pylrn made their first contribution in https://github.com/marimo-team/marimo/pull/10723\r\n* @sha2fiddy made their first contribution in https://github.com/marimo-team/marimo/pull/10616\r\n\r\n**Full Changelog**: https://github.com/marimo-team/marimo/compare/0.24.0...0.24.1\r\n","reactions":{"total_count":6,"+1":1,"-1":0,"laugh":0,"hooray":2,"confused":0,"heart":1,"rocket":2,"eyes":0},"mentions_count":22}
