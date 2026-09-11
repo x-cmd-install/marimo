@@ -1,0 +1,196 @@
+about:
+  description: "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor."
+  license: Apache-2.0
+  homepage: https://marimo.io
+  head: fa0eeff
+  archived: false
+  latestVersion: "0.24.1"
+  latestRelease: "0.24.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-11T05:23:24Z
+timeline:
+  created: 2023-08-14
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
+  lastPrerelease: 
+popularity:
+  star: 22715
+  watcher: 71
+  fork: 1258
+  release: 370
+  contributor: 332
+  pullRequest: 7274
+  issue: 3092
+language:
+  Python: 14488916
+  TypeScript: 8967523
+  CSS: 119442
+  JavaScript: 68266
+  HTML: 61332
+  Shell: 17225
+  Jupyter Notebook: 13594
+  MDX: 9807
+  Makefile: 6758
+  Dockerfile: 1500
+  TeX: 209
+  Vim Script: 30
+totalBytes: 23754602
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 2
+    mergedPR: 130
+    openPR: 45
+    closedIssue: 34
+    openIssue: 33
+    commit: 147
+  last60d:
+    since: 2026-07-13
+    release: 4
+    mergedPR: 312
+    openPR: 57
+    closedIssue: 87
+    openIssue: 70
+    commit: 311
+  last90d:
+    since: 2026-06-13
+    release: 9
+    mergedPR: 478
+    openPR: 61
+    closedIssue: 139
+    openIssue: 97
+    commit: 487
+  last180d:
+    since: 2026-03-15
+    release: 21
+    mergedPR: 1152
+    openPR: 66
+    closedIssue: 358
+    openIssue: 191
+    commit: 1117
+  last360d:
+    since: 2025-09-16
+    release: 55
+    mergedPR: 2535
+    openPR: 70
+    closedIssue: 887
+    openIssue: 304
+    commit: 2479
+  last720d:
+    since: 2024-09-21
+    release: 100
+    mergedPR: 4827
+    openPR: 73
+    closedIssue: 1963
+    openIssue: 514
+    commit: 4953
+total:
+  release: 370
+  mergedPR: 6457
+  openPR: 73
+  closedIssue: 2565
+  openIssue: 527
+  commit: 6692
+---
+path: /home/runner/.x-repo/github.com/marimo-team/marimo
+collectedAt: 2026-09-11T05:23:44Z
+loc:
+  Python:
+    code: 385616
+    comments: 25744
+    blanks: 79857
+    files: 2242
+  TypeScript:
+    code: 149793
+    comments: 15581
+    blanks: 20500
+    files: 1023
+  Tsx:
+    code: 101924
+    comments: 5410
+    blanks: 10100
+    files: 621
+  Yaml:
+    code: 34447
+    comments: 47
+    blanks: 4396
+    files: 13
+  Json:
+    code: 5017
+    comments: 0
+    blanks: 4
+    files: 72
+  Css:
+    code: 4959
+    comments: 347
+    blanks: 920
+    files: 52
+  JavaScript:
+    code: 2261
+    comments: 228
+    blanks: 202
+    files: 13
+  Html:
+    code: 634
+    comments: 31
+    blanks: 16
+    files: 12
+  Toml:
+    code: 499
+    comments: 93
+    blanks: 51
+    files: 2
+  Sh:
+    code: 493
+    comments: 74
+    blanks: 80
+    files: 15
+  Svg:
+    code: 280
+    comments: 3
+    blanks: 6
+    files: 36
+  Makefile:
+    code: 132
+    comments: 50
+    blanks: 38
+    files: 1
+  Dockerfile:
+    code: 37
+    comments: 6
+    blanks: 13
+    files: 1
+  Jupyter:
+    code: 25
+    comments: 19
+    blanks: 2
+    files: 9
+  Autoconf:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Tex:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15021
+    blanks: 6703
+    files: 306
+  Text:
+    code: 0
+    comments: 12648
+    blanks: 1085
+    files: 175
+total:
+  code: 690236
+  comments: 75997
+  blanks: 124593
+  files: 4595
+---
+
+---
