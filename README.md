@@ -37,30 +37,22 @@ Total: **693,210** lines of code across **3990** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,737 · **Forks**: 1,260 · **Open issues**: 3,097 · **Contributors**: 331
+- **Stars**: 22,751 · **Forks**: 1,264 · **Open issues**: 3,097 · **Contributors**: 331
 
 ## Totals (cumulative)
 
-- **Releases**: 371 · **Merged PRs**: 6470 · **Open PRs**: 68 · **Closed issues**: 2572 · **Open issues**: 525 · **Commits**: 6703
+- **Releases**: 371 · **Merged PRs**: 6470 · **Open PRs**: 78 · **Closed issues**: 2572 · **Open issues**: 525 · **Commits**: 6703
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 132 | 32 | 36 | 28 | 158 |
-| last60d | 2026-07-15 | 5 | 313 | 52 | 88 | 68 | 322 |
-| 90d | 2026-06-15 | 10 | 481 | 56 | 141 | 94 | 498 |
-| last180d | 2026-03-17 | 21 | 1130 | 61 | 354 | 189 | 1128 |
-| 360d | 2025-09-18 | 56 | 2518 | 65 | 878 | 303 | 2490 |
-| last720d | 2024-09-23 | 100 | 4831 | 68 | 1966 | 512 | 4961 |
-
-## Distribution status
-
-Reported by **24** distros on [repology.org](https://repology.org/project/marimo). **2** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.24.0` | ⚠️ outdated |
+| 30d | 2026-08-15 | 3 | 132 | 42 | 33 | 27 | 119 |
+| last60d | 2026-07-16 | 5 | 312 | 62 | 88 | 65 | 287 |
+| 90d | 2026-06-16 | 10 | 478 | 66 | 140 | 93 | 468 |
+| last180d | 2026-03-18 | 21 | 1116 | 71 | 351 | 189 | 1065 |
+| 360d | 2025-09-19 | 55 | 2504 | 75 | 875 | 303 | 2419 |
+| last720d | 2024-09-24 | 100 | 4826 | 78 | 1964 | 512 | 4953 |
 
 ## Improve this data
 
@@ -71,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:38:47Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:02:23Z._
