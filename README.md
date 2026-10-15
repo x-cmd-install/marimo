@@ -14,13 +14,13 @@ x install marimo
 
 ## Code insight
 
-Total: **748,570** lines of code across **4178** files in the top 5 languages.
+Total: **751,181** lines of code across **4189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 431,870 | 26,568 | 86,078 | 2357 |
-| TypeScript | 154,449 | 15,761 | 20,841 | 1057 |
-| Tsx | 111,846 | 5,388 | 10,728 | 663 |
+| Python | 433,918 | 26,593 | 86,374 | 2365 |
+| TypeScript | 154,793 | 15,763 | 20,858 | 1058 |
+| Tsx | 112,038 | 5,390 | 10,741 | 665 |
 | Yaml | 35,757 | 47 | 4,046 | 14 |
 | Json | 5,299 | 0 | 4 | 87 |
 
@@ -33,26 +33,26 @@ Total: **748,570** lines of code across **4178** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.25.1` (2026-10-01)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
-- **Stars**: 23,152 · **Forks**: 1,334 · **Open issues**: 3,180 · **Contributors**: 349
+- **Stars**: 23,181 · **Forks**: 1,338 · **Open issues**: 3,182 · **Contributors**: 353
 
 ## Totals (cumulative)
 
-- **Releases**: 373 · **Merged PRs**: 6688 · **Open PRs**: 80 · **Closed issues**: 2637 · **Open issues**: 543 · **Commits**: 6917
+- **Releases**: 373 · **Merged PRs**: 6704 · **Open PRs**: 79 · **Closed issues**: 2639 · **Open issues**: 543 · **Commits**: 6932
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 181 | 51 | 41 | 41 | 177 |
-| last60d | 2026-08-15 | 5 | 345 | 67 | 79 | 63 | 347 |
-| 90d | 2026-07-16 | 7 | 530 | 73 | 138 | 97 | 517 |
-| last180d | 2026-04-17 | 19 | 1049 | 76 | 322 | 178 | 1009 |
-| 360d | 2025-10-19 | 52 | 2490 | 78 | 833 | 309 | 2406 |
-| last720d | 2024-10-24 | 100 | 4843 | 80 | 1943 | 525 | 4951 |
+| 30d | 2026-09-15 | 2 | 181 | 51 | 39 | 39 | 192 |
+| last60d | 2026-08-16 | 5 | 361 | 66 | 81 | 63 | 362 |
+| 90d | 2026-07-17 | 7 | 539 | 71 | 135 | 96 | 532 |
+| last180d | 2026-04-18 | 19 | 1060 | 75 | 324 | 178 | 1024 |
+| 360d | 2025-10-20 | 52 | 2497 | 77 | 833 | 308 | 2421 |
+| last720d | 2024-10-25 | 100 | 4852 | 79 | 1942 | 525 | 4960 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:45:35Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:18:35Z._
