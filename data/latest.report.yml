@@ -7,7 +7,7 @@ about:
   latestVersion: "0.25.2"
   latestRelease: "0.25.2"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:43:57Z
+  collectedAt: 2026-10-31T06:17:17Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-10-29
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-19
   lastPrerelease: 
 popularity:
-  star: 23370
+  star: 23376
   watcher: 66
-  fork: 1364
+  fork: 1366
   release: 374
   contributor: 361
-  pullRequest: 7852
-  issue: 3227
+  pullRequest: 7856
+  issue: 3229
 language:
   Python: 17262953
   TypeScript: 10297660
@@ -39,63 +39,63 @@ language:
 totalBytes: 27872171
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 2
-    mergedPR: 277
-    openPR: 54
-    closedIssue: 37
+    mergedPR: 264
+    openPR: 58
+    closedIssue: 35
     openIssue: 46
     commit: 296
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 5
-    mergedPR: 472
-    openPR: 68
+    mergedPR: 465
+    openPR: 72
     closedIssue: 89
-    openIssue: 65
+    openIssue: 67
     commit: 490
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 6
     mergedPR: 620
-    openPR: 77
-    closedIssue: 134
-    openIssue: 90
+    openPR: 81
+    closedIssue: 133
+    openIssue: 92
     commit: 626
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 17
-    mergedPR: 1162
-    openPR: 78
-    closedIssue: 322
+    mergedPR: 1155
+    openPR: 82
+    closedIssue: 320
     openIssue: 179
     commit: 1143
   last360d:
-    since: 2025-11-04
-    release: 47
-    mergedPR: 2562
-    openPR: 80
-    closedIssue: 816
+    since: 2025-11-05
+    release: 46
+    mergedPR: 2556
+    openPR: 84
+    closedIssue: 811
     openIssue: 305
     commit: 2497
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 4995
-    openPR: 81
-    closedIssue: 1957
-    openIssue: 524
-    commit: 5097
+    mergedPR: 4994
+    openPR: 85
+    closedIssue: 1956
+    openIssue: 526
+    commit: 5087
 total:
   release: 374
   mergedPR: 6903
-  openPR: 81
+  openPR: 85
   closedIssue: 2685
-  openIssue: 542
+  openIssue: 544
   commit: 7131
 ---
 path: /home/runner/.x-repo/github.com/marimo-team/marimo
-collectedAt: 2026-10-30T06:44:18Z
+collectedAt: 2026-10-31T06:17:37Z
 loc:
   Python:
     code: 457094
