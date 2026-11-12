@@ -2,8 +2,6 @@
 
 [中文版本](./README.cn.md)
 
-A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-
 [![x-cmd/install — marimo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/marimo.svg)](https://x-cmd.com/install/marimo)
 
 ## Install
@@ -14,45 +12,39 @@ x install marimo
 
 ## Code insight
 
-Total: **821,249** lines of code across **4519** files in the top 5 languages.
+Total: **821,620** lines of code across **4521** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 474,923 | 26,997 | 91,945 | 2456 |
-| TypeScript | 173,451 | 16,696 | 21,821 | 1219 |
-| Tsx | 121,823 | 5,373 | 11,488 | 730 |
+| Python | 475,144 | 27,002 | 91,978 | 2457 |
+| TypeScript | 173,499 | 16,697 | 21,826 | 1220 |
+| Tsx | 121,925 | 5,374 | 11,491 | 730 |
 | Yaml | 35,437 | 41 | 4,309 | 13 |
 | Json | 5,681 | 0 | 4 | 101 |
 
 ## Source
 
 - **Upstream**: <https://github.com/marimo-team/marimo>
-- **Homepage**: <https://marimo.io>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `0.25.2` (2026-10-19)
-- **Last commit**: 2026-11-11
+- **License**: NOASSERTION
 
 ## Popularity
 
-- **Stars**: 23,508 · **Forks**: 1,383 · **Open issues**: 3,251 · **Contributors**: 370
+- **Stars**: 0 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 0
 
 ## Totals (cumulative)
 
-- **Releases**: 374 · **Merged PRs**: 7095 · **Open PRs**: 76 · **Closed issues**: 2721 · **Open issues**: 530 · **Commits**: 7321
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 0
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 397 | 53 | 46 | 29 | 380 |
-| last60d | 2026-09-12 | 3 | 606 | 64 | 100 | 54 | 593 |
-| 90d | 2026-08-13 | 6 | 756 | 74 | 143 | 76 | 769 |
-| last180d | 2026-05-15 | 15 | 1284 | 74 | 323 | 168 | 1250 |
-| 360d | 2025-11-16 | 45 | 2703 | 76 | 809 | 291 | 2629 |
-| last720d | 2024-11-21 | 100 | 5141 | 76 | 1961 | 509 | 5228 |
+| 30d | 2026-10-13 | 0 | 384 | 54 | 43 | 29 | 0 |
+| last60d | 2026-09-13 | 0 | 602 | 68 | 101 | 53 | 0 |
+| 90d | 2026-08-14 | 0 | 753 | 76 | 143 | 75 | 0 |
+| last180d | 2026-05-16 | 0 | 1283 | 78 | 321 | 167 | 0 |
+| 360d | 2025-11-17 | 0 | 2704 | 80 | 807 | 288 | 0 |
+| last720d | 2024-11-22 | 0 | 5136 | 80 | 1958 | 508 | 0 |
 
 ## Distribution status
 
@@ -71,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:01:29Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:12:46Z._

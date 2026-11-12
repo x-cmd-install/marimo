@@ -2,8 +2,6 @@
 
 [English version](./README.md)
 
-A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-
 [![x-cmd/install — marimo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/marimo.svg?lang=zh)](https://x-cmd.com/install/marimo)
 
 ## 安装
@@ -14,45 +12,39 @@ x install marimo
 
 ## 代码洞察
 
-合计: **821,249** 行代码（覆盖前 5 种语言、共 **4519** 个文件）。
+合计: **821,620** 行代码（覆盖前 5 种语言、共 **4521** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 474,923 | 26,997 | 91,945 | 2456 |
-| TypeScript | 173,451 | 16,696 | 21,821 | 1219 |
-| Tsx | 121,823 | 5,373 | 11,488 | 730 |
+| Python | 475,144 | 27,002 | 91,978 | 2457 |
+| TypeScript | 173,499 | 16,697 | 21,826 | 1220 |
+| Tsx | 121,925 | 5,374 | 11,491 | 730 |
 | Yaml | 35,437 | 41 | 4,309 | 13 |
 | Json | 5,681 | 0 | 4 | 101 |
 
 ## 源代码
 
 - **上游仓库**: <https://github.com/marimo-team/marimo>
-- **官网**: <https://marimo.io>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `0.25.2` (2026-10-19)
-- **最近提交**: 2026-11-11
+- **许可证**: NOASSERTION
 
 ## 流行度
 
-- **Star**: 23,508 · **Fork**: 1,383 · **开放 issue**: 3,251 · **贡献者**: 370
+- **Star**: 0 · **Fork**: 0 · **开放 issue**: 0 · **贡献者**: 0
 
 ## 累计统计
 
-- **发布数**: 374 · **已合并 PR**: 7095 · **开放 PR**: 76 · **已关闭 issue**: 2721 · **开放 issue**: 530 · **提交数**: 7321
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 0
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 397 | 53 | 46 | 29 | 380 |
-| last60d | 2026-09-12 | 3 | 606 | 64 | 100 | 54 | 593 |
-| 90d | 2026-08-13 | 6 | 756 | 74 | 143 | 76 | 769 |
-| last180d | 2026-05-15 | 15 | 1284 | 74 | 323 | 168 | 1250 |
-| 360d | 2025-11-16 | 45 | 2703 | 76 | 809 | 291 | 2629 |
-| last720d | 2024-11-21 | 100 | 5141 | 76 | 1961 | 509 | 5228 |
+| 30d | 2026-10-13 | 0 | 384 | 54 | 43 | 29 | 0 |
+| last60d | 2026-09-13 | 0 | 602 | 68 | 101 | 53 | 0 |
+| 90d | 2026-08-14 | 0 | 753 | 76 | 143 | 75 | 0 |
+| last180d | 2026-05-16 | 0 | 1283 | 78 | 321 | 167 | 0 |
+| 360d | 2025-11-17 | 0 | 2704 | 80 | 807 | 288 | 0 |
+| last720d | 2024-11-22 | 0 | 5136 | 80 | 1958 | 508 | 0 |
 
 ## 发行版状态
 
@@ -71,4 +63,4 @@ marimo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T07:01:31Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T08:12:47Z._
