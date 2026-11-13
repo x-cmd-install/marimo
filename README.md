@@ -12,14 +12,14 @@ x install marimo
 
 ## Code insight
 
-Total: **821,620** lines of code across **4521** files in the top 5 languages.
+Total: **821,482** lines of code across **4522** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 475,144 | 27,002 | 91,978 | 2457 |
-| TypeScript | 173,499 | 16,697 | 21,826 | 1220 |
-| Tsx | 121,925 | 5,374 | 11,491 | 730 |
-| Yaml | 35,437 | 41 | 4,309 | 13 |
+| Python | 475,055 | 26,999 | 91,954 | 2457 |
+| TypeScript | 173,464 | 16,696 | 21,830 | 1221 |
+| Tsx | 121,940 | 5,374 | 11,491 | 730 |
+| Yaml | 35,409 | 41 | 4,309 | 13 |
 | Json | 5,681 | 0 | 4 | 101 |
 
 ## Source
@@ -39,12 +39,12 @@ Total: **821,620** lines of code across **4521** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 384 | 54 | 43 | 29 | 0 |
-| last60d | 2026-09-13 | 0 | 602 | 68 | 101 | 53 | 0 |
-| 90d | 2026-08-14 | 0 | 753 | 76 | 143 | 75 | 0 |
-| last180d | 2026-05-16 | 0 | 1283 | 78 | 321 | 167 | 0 |
-| 360d | 2025-11-17 | 0 | 2704 | 80 | 807 | 288 | 0 |
-| last720d | 2024-11-22 | 0 | 5136 | 80 | 1958 | 508 | 0 |
+| 30d | 2026-10-14 | 0 | 375 | 52 | 43 | 30 | 0 |
+| last60d | 2026-09-14 | 0 | 592 | 69 | 101 | 55 | 0 |
+| 90d | 2026-08-15 | 0 | 757 | 77 | 140 | 76 | 0 |
+| last180d | 2026-05-17 | 0 | 1286 | 79 | 321 | 168 | 0 |
+| 360d | 2025-11-18 | 0 | 2699 | 81 | 804 | 290 | 0 |
+| last720d | 2024-11-23 | 0 | 5137 | 81 | 1955 | 510 | 0 |
 
 ## Distribution status
 
@@ -63,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:12:46Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:37:20Z._
