@@ -12,15 +12,15 @@ x install marimo
 
 ## Code insight
 
-Total: **821,482** lines of code across **4522** files in the top 5 languages.
+Total: **822,991** lines of code across **4526** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 475,055 | 26,999 | 91,954 | 2457 |
-| TypeScript | 173,464 | 16,696 | 21,830 | 1221 |
-| Tsx | 121,940 | 5,374 | 11,491 | 730 |
-| Yaml | 35,409 | 41 | 4,309 | 13 |
-| Json | 5,681 | 0 | 4 | 101 |
+| Python | 476,374 | 27,001 | 92,106 | 2460 |
+| TypeScript | 173,445 | 16,696 | 21,823 | 1221 |
+| Tsx | 122,176 | 5,373 | 11,503 | 731 |
+| Yaml | 35,406 | 41 | 4,301 | 13 |
+| Json | 5,680 | 0 | 4 | 101 |
 
 ## Source
 
@@ -39,12 +39,12 @@ Total: **821,482** lines of code across **4522** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 375 | 52 | 43 | 30 | 0 |
-| last60d | 2026-09-14 | 0 | 592 | 69 | 101 | 55 | 0 |
-| 90d | 2026-08-15 | 0 | 757 | 77 | 140 | 76 | 0 |
-| last180d | 2026-05-17 | 0 | 1286 | 79 | 321 | 168 | 0 |
-| 360d | 2025-11-18 | 0 | 2699 | 81 | 804 | 290 | 0 |
-| last720d | 2024-11-23 | 0 | 5137 | 81 | 1955 | 510 | 0 |
+| 30d | 2026-10-15 | 0 | 378 | 72 | 43 | 28 | 0 |
+| last60d | 2026-09-15 | 0 | 596 | 89 | 98 | 54 | 0 |
+| 90d | 2026-08-16 | 0 | 776 | 97 | 142 | 76 | 0 |
+| last180d | 2026-05-18 | 0 | 1288 | 99 | 319 | 167 | 0 |
+| 360d | 2025-11-19 | 0 | 2710 | 101 | 805 | 290 | 0 |
+| last720d | 2024-11-24 | 0 | 5151 | 101 | 1955 | 510 | 0 |
 
 ## Distribution status
 
@@ -63,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:37:20Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:20:42Z._
