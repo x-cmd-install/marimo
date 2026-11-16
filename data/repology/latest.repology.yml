@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: marimo
+  visiblename: marimo
+  version: 0.13.6
+  origversion: null
+  status: outdated
+  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
+  maintainers:
+    - akshayka@github
+    - nix@madisetti.me
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: marimo
   binname: marimo
@@ -68,8 +80,8 @@
   categories:
     - python
 - repo: nix_stable_24_05
-  srcname: marimo
-  visiblename: marimo
+  srcname: python311Packages.marimo
+  visiblename: python3.11-marimo
   version: 0.6.2
   origversion: null
   status: outdated
@@ -79,6 +91,8 @@
     - nix@madisetti.me
   licenses:
     - Apache-2.0
+  categories:
+    - python311Packages
 - repo: nix_stable_24_05
   srcname: python312Packages.marimo
   visiblename: python3.12-marimo
@@ -94,8 +108,8 @@
   categories:
     - python312Packages
 - repo: nix_stable_24_05
-  srcname: python311Packages.marimo
-  visiblename: python3.11-marimo
+  srcname: marimo
+  visiblename: marimo
   version: 0.6.2
   origversion: null
   status: outdated
@@ -105,8 +119,6 @@
     - nix@madisetti.me
   licenses:
     - Apache-2.0
-  categories:
-    - python311Packages
 - repo: nix_stable_24_11
   srcname: marimo
   visiblename: marimo
@@ -119,20 +131,6 @@
     - nix@madisetti.me
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: python311Packages.marimo
-  visiblename: python3.11-marimo
-  version: 0.9.14
-  origversion: null
-  status: outdated
-  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
-  maintainers:
-    - akshayka@github
-    - nix@madisetti.me
-  licenses:
-    - Apache-2.0
-  categories:
-    - python311Packages
 - repo: nix_stable_24_11
   srcname: python312Packages.marimo
   visiblename: python3.12-marimo
@@ -147,9 +145,23 @@
     - Apache-2.0
   categories:
     - python312Packages
+- repo: nix_stable_24_11
+  srcname: python311Packages.marimo
+  visiblename: python3.11-marimo
+  version: 0.9.14
+  origversion: null
+  status: outdated
+  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
+  maintainers:
+    - akshayka@github
+    - nix@madisetti.me
+  licenses:
+    - Apache-2.0
+  categories:
+    - python311Packages
 - repo: nix_stable_25_05
-  srcname: marimo
-  visiblename: marimo
+  srcname: python312Packages.marimo
+  visiblename: python3.12-marimo
   version: 0.13.6
   origversion: null
   status: outdated
@@ -159,6 +171,8 @@
     - nix@madisetti.me
   licenses:
     - Apache-2.0
+  categories:
+    - python312Packages
 - repo: nix_stable_25_05
   srcname: python313Packages.marimo
   visiblename: python3.13-marimo
@@ -173,20 +187,6 @@
     - Apache-2.0
   categories:
     - python313Packages
-- repo: nix_stable_25_05
-  srcname: python312Packages.marimo
-  visiblename: python3.12-marimo
-  version: 0.13.6
-  origversion: null
-  status: outdated
-  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
-  maintainers:
-    - akshayka@github
-    - nix@madisetti.me
-  licenses:
-    - Apache-2.0
-  categories:
-    - python312Packages
 - repo: nix_stable_25_11
   srcname: python312Packages.marimo
   visiblename: python3.12-marimo
@@ -242,7 +242,7 @@
   categories:
     - python313Packages
 - repo: nix_stable_26_05
-  srcname: marimo
+  srcname: python314Packages.marimo
   visiblename: marimo
   version: 0.23.10
   origversion: null
@@ -253,8 +253,10 @@
     - nix@madisetti.me
   licenses:
     - Apache-2.0
+  categories:
+    - python314Packages
 - repo: nix_stable_26_05
-  srcname: python314Packages.marimo
+  srcname: marimo
   visiblename: marimo
   version: 0.23.10
   origversion: null
@@ -265,34 +267,6 @@
     - nix@madisetti.me
   licenses:
     - Apache-2.0
-  categories:
-    - python314Packages
-- repo: nix_unstable
-  srcname: marimo
-  visiblename: marimo
-  version: 0.25.1
-  origversion: null
-  status: outdated
-  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
-  maintainers:
-    - akshayka@github
-    - nix@madisetti.me
-  licenses:
-    - Apache-2.0
-- repo: nix_unstable
-  srcname: python314Packages.marimo
-  visiblename: marimo
-  version: 0.25.1
-  origversion: null
-  status: outdated
-  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
-  maintainers:
-    - akshayka@github
-    - nix@madisetti.me
-  licenses:
-    - Apache-2.0
-  categories:
-    - python314Packages
 - repo: nix_unstable
   srcname: python313Packages.marimo
   visiblename: marimo
@@ -307,6 +281,32 @@
     - Apache-2.0
   categories:
     - python313Packages
+- repo: nix_unstable
+  srcname: marimo
+  visiblename: marimo
+  version: 0.25.1
+  origversion: null
+  status: outdated
+  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
+  maintainers:
+    - akshayka@github
+    - nix@madisetti.me
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: python314Packages.marimo
+  visiblename: marimo
+  version: 0.25.1
+  origversion: null
+  status: outdated
+  summary: Reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps
+  maintainers:
+    - akshayka@github
+    - nix@madisetti.me
+  licenses:
+    - Apache-2.0
+  categories:
+    - python314Packages
 - repo: pypi
   srcname: marimo
   binname: marimo
