@@ -12,15 +12,15 @@ x install marimo
 
 ## Code insight
 
-Total: **823,460** lines of code across **4526** files in the top 5 languages.
+Total: **836,083** lines of code across **4571** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 476,637 | 27,010 | 92,135 | 2460 |
-| TypeScript | 173,642 | 16,730 | 21,834 | 1221 |
-| Tsx | 122,183 | 5,373 | 11,503 | 731 |
-| Yaml | 35,408 | 41 | 4,301 | 13 |
-| Json | 5,680 | 0 | 4 | 101 |
+| Python | 484,396 | 27,086 | 92,944 | 2485 |
+| TypeScript | 175,979 | 16,841 | 21,980 | 1234 |
+| Tsx | 124,284 | 5,397 | 11,677 | 738 |
+| Yaml | 35,641 | 43 | 4,301 | 13 |
+| Json | 5,681 | 0 | 4 | 101 |
 
 ## Source
 
@@ -39,12 +39,20 @@ Total: **823,460** lines of code across **4526** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 366 | 81 | 42 | 29 | 0 |
-| last60d | 2026-09-18 | 0 | 577 | 98 | 94 | 57 | 0 |
-| 90d | 2026-08-19 | 0 | 765 | 106 | 143 | 81 | 0 |
-| last180d | 2026-05-21 | 0 | 1250 | 110 | 315 | 167 | 0 |
-| 360d | 2025-11-22 | 0 | 2690 | 112 | 806 | 290 | 0 |
-| last720d | 2024-11-27 | 0 | 5136 | 112 | 1945 | 512 | 0 |
+| 30d | 2026-10-20 | 0 | 380 | 54 | 45 | 29 | 0 |
+| last60d | 2026-09-20 | 0 | 638 | 68 | 100 | 55 | 0 |
+| 90d | 2026-08-21 | 0 | 809 | 75 | 144 | 76 | 0 |
+| last180d | 2026-05-23 | 0 | 1306 | 78 | 318 | 165 | 0 |
+| 360d | 2025-11-24 | 0 | 2735 | 80 | 808 | 284 | 0 |
+| last720d | 2024-11-29 | 0 | 5193 | 80 | 1950 | 506 | 0 |
+
+## Distribution status
+
+Reported by **24** distros on [repology.org](https://repology.org/project/marimo). **6** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.25.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -55,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:34:21Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:45Z._
