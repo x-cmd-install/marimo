@@ -12,15 +12,15 @@ x install marimo
 
 ## Code insight
 
-Total: **841,402** lines of code across **4577** files in the top 5 languages.
+Total: **841,282** lines of code across **4579** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 488,124 | 27,107 | 93,308 | 2486 |
-| TypeScript | 176,589 | 16,792 | 21,976 | 1239 |
-| Tsx | 125,120 | 5,369 | 11,679 | 738 |
-| Yaml | 35,769 | 43 | 4,306 | 13 |
-| Json | 5,689 | 0 | 4 | 101 |
+| Python | 488,026 | 27,084 | 93,297 | 2486 |
+| TypeScript | 176,619 | 16,778 | 21,982 | 1240 |
+| Tsx | 125,123 | 5,371 | 11,682 | 739 |
+| Yaml | 35,711 | 43 | 4,306 | 13 |
+| Json | 5,687 | 0 | 4 | 101 |
 
 ## Source
 
@@ -39,12 +39,12 @@ Total: **841,402** lines of code across **4577** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 379 | 44 | 42 | 30 | 0 |
-| last60d | 2026-09-22 | 0 | 664 | 58 | 96 | 55 | 0 |
-| 90d | 2026-08-23 | 0 | 853 | 65 | 144 | 79 | 0 |
-| last180d | 2026-05-25 | 0 | 1351 | 68 | 313 | 167 | 0 |
-| 360d | 2025-11-26 | 0 | 2759 | 70 | 800 | 286 | 0 |
-| last720d | 2024-12-01 | 0 | 5234 | 70 | 1947 | 509 | 0 |
+| 30d | 2026-10-23 | 0 | 368 | 42 | 41 | 29 | 0 |
+| last60d | 2026-09-23 | 0 | 654 | 56 | 92 | 54 | 0 |
+| 90d | 2026-08-24 | 0 | 846 | 63 | 142 | 79 | 0 |
+| last180d | 2026-05-26 | 0 | 1346 | 66 | 310 | 168 | 0 |
+| 360d | 2025-11-27 | 0 | 2754 | 68 | 796 | 287 | 0 |
+| last720d | 2024-12-02 | 0 | 5228 | 68 | 1942 | 510 | 0 |
 
 ## Distribution status
 
@@ -63,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:24:37Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:45:13Z._
