@@ -12,15 +12,15 @@ x install marimo
 
 ## Code insight
 
-Total: **843,971** lines of code across **4595** files in the top 5 languages.
+Total: **845,232** lines of code across **4608** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 490,028 | 27,192 | 93,552 | 2489 |
-| TypeScript | 177,088 | 16,762 | 22,020 | 1252 |
-| Tsx | 125,201 | 5,374 | 11,689 | 739 |
-| Yaml | 35,843 | 43 | 4,319 | 13 |
-| Json | 5,695 | 0 | 4 | 102 |
+| Python | 490,772 | 27,204 | 93,672 | 2492 |
+| TypeScript | 177,555 | 16,643 | 22,062 | 1259 |
+| Tsx | 125,738 | 5,377 | 11,712 | 742 |
+| Yaml | 35,330 | 43 | 4,319 | 13 |
+| Json | 5,696 | 0 | 4 | 102 |
 
 ## Source
 
@@ -39,12 +39,12 @@ Total: **843,971** lines of code across **4595** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 402 | 53 | 41 | 24 | 0 |
-| last60d | 2026-09-26 | 0 | 693 | 65 | 95 | 52 | 0 |
-| 90d | 2026-08-27 | 0 | 877 | 72 | 141 | 73 | 0 |
-| last180d | 2026-05-29 | 0 | 1380 | 76 | 311 | 162 | 0 |
-| 360d | 2025-11-30 | 0 | 2804 | 78 | 801 | 284 | 0 |
-| last720d | 2024-12-05 | 0 | 5253 | 78 | 1940 | 507 | 0 |
+| 30d | 2026-10-27 | 0 | 401 | 50 | 43 | 21 | 0 |
+| last60d | 2026-09-27 | 0 | 713 | 63 | 98 | 51 | 0 |
+| 90d | 2026-08-28 | 0 | 889 | 69 | 142 | 70 | 0 |
+| last180d | 2026-05-30 | 0 | 1400 | 74 | 314 | 161 | 0 |
+| 360d | 2025-12-01 | 0 | 2809 | 76 | 799 | 283 | 0 |
+| last720d | 2024-12-06 | 0 | 5267 | 76 | 1936 | 506 | 0 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:18:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:42:12Z._
