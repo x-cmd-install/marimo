@@ -12,13 +12,13 @@ x install marimo
 
 ## Code insight
 
-Total: **845,232** lines of code across **4608** files in the top 5 languages.
+Total: **846,117** lines of code across **4621** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 490,772 | 27,204 | 93,672 | 2492 |
-| TypeScript | 177,555 | 16,643 | 22,062 | 1259 |
-| Tsx | 125,738 | 5,377 | 11,712 | 742 |
+| Python | 490,804 | 27,206 | 93,674 | 2492 |
+| TypeScript | 178,081 | 16,665 | 22,104 | 1269 |
+| Tsx | 126,028 | 5,358 | 11,733 | 745 |
 | Yaml | 35,330 | 43 | 4,319 | 13 |
 | Json | 5,696 | 0 | 4 | 102 |
 
@@ -39,12 +39,20 @@ Total: **845,232** lines of code across **4608** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 401 | 50 | 43 | 21 | 0 |
-| last60d | 2026-09-27 | 0 | 713 | 63 | 98 | 51 | 0 |
-| 90d | 2026-08-28 | 0 | 889 | 69 | 142 | 70 | 0 |
-| last180d | 2026-05-30 | 0 | 1400 | 74 | 314 | 161 | 0 |
-| 360d | 2025-12-01 | 0 | 2809 | 76 | 799 | 283 | 0 |
-| last720d | 2024-12-06 | 0 | 5267 | 76 | 1936 | 506 | 0 |
+| 30d | 2026-10-28 | 0 | 399 | 45 | 40 | 21 | 0 |
+| last60d | 2026-09-28 | 0 | 710 | 58 | 94 | 51 | 0 |
+| 90d | 2026-08-29 | 0 | 891 | 65 | 142 | 70 | 0 |
+| last180d | 2026-05-31 | 0 | 1406 | 70 | 314 | 161 | 0 |
+| 360d | 2025-12-02 | 0 | 2808 | 72 | 796 | 283 | 0 |
+| last720d | 2024-12-07 | 0 | 5273 | 72 | 1936 | 505 | 0 |
+
+## Distribution status
+
+Reported by **24** distros on [repology.org](https://repology.org/project/marimo). **5** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.25.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -55,4 +63,4 @@ Install metadata for marimo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:42:12Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:04:51Z._
