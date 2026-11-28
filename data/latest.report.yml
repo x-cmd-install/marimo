@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:04:22Z
+  collectedAt: 2026-11-28T08:18:17Z
 timeline:
   created: 
   lastCommit: 
@@ -24,52 +24,52 @@ popularity:
   issue: 0
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 399
+    mergedPR: 390
     openPR: 45
-    closedIssue: 40
-    openIssue: 21
+    closedIssue: 37
+    openIssue: 22
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 710
-    openPR: 58
-    closedIssue: 94
-    openIssue: 51
+    mergedPR: 696
+    openPR: 57
+    closedIssue: 91
+    openIssue: 53
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 891
-    openPR: 65
+    mergedPR: 890
+    openPR: 64
     closedIssue: 142
-    openIssue: 70
+    openIssue: 71
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 1406
+    mergedPR: 1399
     openPR: 70
-    closedIssue: 314
-    openIssue: 161
+    closedIssue: 312
+    openIssue: 160
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 2808
+    mergedPR: 2799
     openPR: 72
-    closedIssue: 796
-    openIssue: 283
+    closedIssue: 791
+    openIssue: 284
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 5273
     openPR: 72
-    closedIssue: 1936
-    openIssue: 505
+    closedIssue: 1935
+    openIssue: 506
     commit: 0
 total:
   release: 0
@@ -83,7 +83,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `marimo-team` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/marimo-team/marimo
-collectedAt: 2026-11-27T10:04:43Z
+collectedAt: 2026-11-28T08:18:36Z
 loc:
   Python:
     code: 490804
